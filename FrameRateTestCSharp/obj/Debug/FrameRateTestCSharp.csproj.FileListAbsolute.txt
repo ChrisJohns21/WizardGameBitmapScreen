@@ -1,0 +1,11 @@
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\bin\Debug\FrameRateTestCSharp.exe.config
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\bin\Debug\FrameRateTestCSharp.exe
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\bin\Debug\FrameRateTestCSharp.pdb
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\obj\Debug\FrameRateTestCSharp.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\obj\Debug\FrameRateTestCSharp.Form1.resources
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\obj\Debug\FrameRateTestCSharp.Properties.Resources.resources
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\obj\Debug\FrameRateTestCSharp.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\obj\Debug\FrameRateTestCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\obj\Debug\FrameRateTestCSharp.exe
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\obj\Debug\FrameRateTestCSharp.pdb
+C:\Users\Chris\Desktop\FrameRateTestCSharp\FrameRateTestCSharp\obj\Debug\FrameRateTestCSharp.SpriteImaging.resources

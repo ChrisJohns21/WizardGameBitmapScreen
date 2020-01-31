@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameRateTestCSharp", "FrameRateTestCSharp\FrameRateTestCSharp.csproj", "{01C90836-5CF9-4EDC-9944-85A344E2FAF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C90836-5CF9-4EDC-9944-85A344E2FAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C90836-5CF9-4EDC-9944-85A344E2FAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C90836-5CF9-4EDC-9944-85A344E2FAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C90836-5CF9-4EDC-9944-85A344E2FAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94C346D-7A61-46F9-965C-D1C2636380A3}
+	EndGlobalSection
+EndGlobal
